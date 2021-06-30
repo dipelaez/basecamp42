@@ -127,7 +127,7 @@
 
 ------------------------------------------------------------------------------------
 
-<p align=center ><img src='./basecamp.png'></p>
+<p align=center ><img src='./basecamp.jpg'></p>
 
 
 
