@@ -1,6 +1,6 @@
 <h1> 「 Basecamp 42 」 </h1> 
 
-------------------------------------------------------------------------------------
+<p align=center ><img src='./basecamp.jpg'></p>
 
 <details>
 <summary> CONTEÚDO DO BASECAMP </summary>
@@ -107,11 +107,11 @@
 
 ## Descrição
 
- • Este repositório contém muitas versões de exercicios concluídas do Basecamp. 
+ • Este repositório contém exercicios concluídos do Basecamp de Maio. 
 
- • Cada pasta de cada lista do basecamp contém um arquivo pdf com exercicios escritos em portugues. 
+ • Cada pasta de cada lista do basecamp contém um arquivo pdf com os exercicios propostos em portugues. 
 
- • Além disso, na pasta de cada lista haverá subpastas contendo um único arquivo (ou um grupo de arquivos) com o nome requerido. 
+ • Na pasta de cada lista haverá subpastas contendo um único arquivo (ou um grupo de arquivos) com o nome requerido pela lista. 
 
  • Além disso, a pasta da tarefa concluída pode conter um arquivo de teste ou uma pasta com arquivos de teste, compilando você pode ver como funciona a função exigida na tarefa (ou várias funções).
 
@@ -126,8 +126,3 @@
 >  Para a exibição correta do conteúdo dos arquivos deste repositório - clone o repositório para o seu computador e abra os arquivos através de qualquer editor de código de sua preferência.
 
 ------------------------------------------------------------------------------------
-
-<p align=center ><img src='./basecamp.jpg'></p>
-
-
-
