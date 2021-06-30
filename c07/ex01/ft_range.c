@@ -7,7 +7,7 @@ int *ft_range(int min, int max)
    
     if (min >= max)
         return (NULL);
-    mat = (int *)malloc(sizeof(*mat) * (max - min));
+    mat = malloc(sizeof(*mat) * (max - min));
     i = 0;
     while (min < max)
     {
