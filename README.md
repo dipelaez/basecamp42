@@ -109,17 +109,13 @@
 
  • Este repositório contém exercicios concluídos do Basecamp de Maio. 
 
- • Cada pasta de cada lista do basecamp contém um arquivo pdf com os exercicios propostos em portugues. 
-
  • Na pasta de cada lista haverá subpastas contendo um único arquivo (ou um grupo de arquivos) com o nome requerido pela lista. 
 
  • Além disso, a pasta da tarefa concluída pode conter um arquivo de teste ou uma pasta com arquivos de teste, compilando você pode ver como funciona a função exigida na tarefa (ou várias funções).
 
 ------------------------------------------------------------------------------------
 
->  Para entender as tarefas, use os vídeos de treinamento `Escola 42` por 10-30 minutos com teoria e exemplos (use a função de legendas no player e sua tradução para o idioma que você precisa): 
-
-> | [Shell and Git video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8) | [C00 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-) | [C01 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxytsXWxZx6odBJMbRktIHTs) | [C05 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxZbeH9b0VC-nC6QsJRw5Ah)| [C06 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxDlCkkCX262SI90TsllYUW) | [C07 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxzNYF00nlmx624twFlamqLt) | [C08 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxxMI_GiGGb2hxMcd3IwNYRy) | [C09 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxw6n6q_i8wek6U7t7CeAXhU) | [C11 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz) | [C12 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj) | [C13 video](https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9) |
+>  Para resolver as tarefas foram estudados os vídeos de treinamento da `Escola 42`, MAN e google.
 
 ------------------------------------------------------------------------------------
 
